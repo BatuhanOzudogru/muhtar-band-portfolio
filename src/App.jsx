@@ -1,4 +1,5 @@
 import About from "./components/About"
+import Concerts from "./components/Concerts"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Songs from "./components/Songs"
@@ -16,6 +17,7 @@ const App = () => {
       <Hero/>
       <About/>
       <Songs/>
+      <Concerts/>
       </div>
     </div>
   )
