@@ -16,7 +16,7 @@ import carousel12 from '../assets/foto12.jpg';
 import carousel13 from '../assets/foto13.jpg';
 import carousel14 from '../assets/foto14.jpg';
 
-function CarouselAlbum() {
+function AllPhotosCarousel() {
   return (
     <div className="h-56 sm:h-64 xl:h-80 2xl:h-96">
       <Carousel slideInterval={5000}>
@@ -43,4 +43,4 @@ function CarouselAlbum() {
   );
 }
 
-export default CarouselAlbum;
+export default AllPhotosCarousel;

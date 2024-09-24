@@ -1,5 +1,5 @@
 import { ABOUT_TEXT } from "../constants";
-import CarouselAlbum from "./CarouselAlbum";  
+import AllPhotosCarousel from "./AllPhotosCarousel";  
 import {motion} from 'framer-motion';
 
 const About = () => {
@@ -15,7 +15,7 @@ const About = () => {
         transition={{duration:0.5}}
         className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center"></div>
-            <CarouselAlbum />
+            <AllPhotosCarousel />
           
         </motion.div>
         <motion.div
