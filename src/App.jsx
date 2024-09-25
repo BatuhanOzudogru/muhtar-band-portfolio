@@ -2,6 +2,7 @@ import About from "./components/About"
 import Concerts from "./components/Concerts"
 import Contact from "./components/Contact"
 import Hero from "./components/Hero"
+import Members from "./components/Members"
 import Navbar from "./components/Navbar"
 import Songs from "./components/Songs"
 
@@ -17,6 +18,7 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <About/>
+      <Members/>
       <Songs/>
       <Concerts/>
       <Contact/>
