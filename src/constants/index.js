@@ -1,7 +1,7 @@
-import foto1 from "/public/pictures/foto21.jpg";
-import foto2 from "/public/pictures/foto22.jpg";
-import foto3 from "/public/pictures/foto29.jpg";
-import foto4 from "/public/pictures/foto24.jpg";
+import foto1 from "/pictures/foto21.jpg";
+import foto2 from "/pictures/foto22.jpg";
+import foto3 from "/pictures/foto29.jpg";
+import foto4 from "/pictures/foto24.jpg";
 
 export const HERO_CONTENT = `2022 yılında müzik hayatına başlayan Muhtar; Oğuz Kaan Civelek, Korhan Koçanalı, Onur Eylül Akçay, Uğur Can Kızılaltun, Mertcan Çetin üyelerinden oluşuyor. 2023, Temmuz'da çıkarmış oldukları 'İçimdekiler' isimli teklileriyle birlikte, şarkılarını insanlara ulaştırma hayallerinin ilk adımlarını atmış bulunmaktalar.`;
 
@@ -13,32 +13,32 @@ export const MEMBERS = [
   {
     name: "Korhan Koçanalı",
     role: "Baterist",
-    photo: "../../public/pictures/member1.jpg",
+    photo: "/pictures/member1.jpg",
     description: `1993 Bursa doğumlu olan Korhan, müziğe 16 yaşında bateri çalarak başladı. Ardından üniversite için gittiği Çanakkale'de yerel sanatçılarla ve gruplarla sahne alan Korhan Bursa'ya döndükten sonra Muhtar grubunun bateristi olarak müzik hayatına devam etmektedir.`
 
   },
   {
     name: "Onur Eylül Akçay",
     role: "Ritim Gitar",
-    photo: "../../public/pictures/member2.jpg",
+    photo: "/pictures/member2.jpg",
     description: `1996 yılı Bursa doğumlu olan Onur, müzik kariyerine 2006 yılında gitar çalarak başladı. Üniversiteyi Bursa Uludağ Üniversitesinde Makine Mühendisliğinde okuyan  Onur, UMT'nin çeşitli organizasyonlarında yer almasının yanında Bursa'da çeşitli gruplarla sahne deneyimi kazandı. 2022 yılında Muhtar grubuna elektro gitarist olarak katılan Onur ayrıca  prodüksiyon konusunda gruba destek olmaktadır.`
   },
   {
     name: "Oğuz Kaan Civelek",
     role: "Vokal",
-    photo: "../../public/pictures/member3.jpg",
+    photo: "/pictures/member3.jpg",
     description: `1997 yılı Bursa doğumlu olan Oğuz Kaan Civelek, müziğe 6 yaşında gitar çalarak başladı. İlk amatör grup deneyimini Bursa'da yaşayan Oğuz, üniversite okumak için gittiği İstanbul'da ilk profesyonel grup deneyimini yaşadı. Gitar haricinde ud, keman, bağlama ve klarnet çalan Oğuz ayrıca Muhtar grubunda vokallik yapmaktadır.`
   },
   {
     name: "Uğur Can Kızılaltun",
     role: "Solo Gitar",
-    photo: "../../public/pictures/member4.jpg",
+    photo: "/pictures/member4.jpg",
     description: `Müziğe 14 yaşında gitar çalarak başlayan Uğur Can, Bursa'da çeşitli gruplarla çalıştıktan sonra, Üniversite okumak için gittiği Eskişehir'de çeşitli gruplarla sahne alan Uğur üniversite sonrası döndüğü Bursa'da Muhtar grubundan önce de çeşitli gruplarla birlikte sahne aldı. Müzikal kariyerine Muhtar grubunda devam eden Uğur Can ayrıca prodüksiyon ile ilgilenmektedir.`
   },
   {
     name: "Mertcan Çetin",
     role: "Bas Gitar",
-    photo: "../../public/pictures/member5.jpg",
+    photo: "/pictures/member5.jpg",
     description: `1997 yılı Bursa doğumlu olan Mertcan, Müzik kariyerine 10 yaşında THM çocuk korosunda başladı, daha sonra Bursa'da çeşitli gruplarla ilk grup deneyimini kazandı. Bağlama, bass gitar ve perküsyon çalan Mertcan 2022 yılında katıldığı Muhtar grubunda bass gitar çalmasının yanında back vokallikte yapmaktadır.`
   }
 ];
@@ -46,7 +46,7 @@ export const MEMBERS = [
 export const SONGS = [
   {
     year: "2024",
-    photo: "../../public/pictures/muhtarPic.jpg",
+    photo: "/pictures/muhtarPic.jpg",
     name: "Zaman Erir Biter",
     type: "Single",
     lyrics: `kaldık hasret mutlu yüzlere
@@ -65,7 +65,7 @@ links: ["", "", "https://www.youtube.com/watch?v=7XFxfd8FKwM"],
   },
   {
     year: "2024",
-    photo: "../../public/pictures/kazanKayniyor.jpg",
+    photo: "/pictures/kazanKayniyor.jpg",
     name: "Kazan Kaynıyor",
     type: "Single",
     lyrics: `Kazan kaynıyor, oluyor girdap
@@ -104,7 +104,7 @@ Kazan kaynıyor artık ateşi söndürün`,
   
   {
     year: "2023",
-    photo: "../../public/pictures/icimdekiler.jpg",
+    photo: "/pictures/icimdekiler.jpg",
     name: "İçimdekiler",
     type: "Single",
     lyrics: `İnleye inleye dönen değirmenin kör atı
@@ -136,7 +136,7 @@ links: ["https://open.spotify.com/intl-tr/track/0NZcBQ3Au806gKW2ohWSWh?si=d49bc8
   
   {
     year: "2023",
-    photo: "../../public/pictures/maske.jpg",
+    photo: "/pictures/maske.jpg",
     name: "Maske",
     type: "Single",
     lyrics: `Düzen değişti, sen hep aynı
