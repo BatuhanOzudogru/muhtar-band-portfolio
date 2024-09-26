@@ -5,6 +5,7 @@ import Hero from "./components/Hero"
 import Members from "./components/Members"
 import Navbar from "./components/Navbar"
 import Songs from "./components/Songs"
+import Footer from "./components/Footer"
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Songs/>
       <Concerts/>
       <Contact/>
+      <Footer />
       </div>
     </div>
   )
