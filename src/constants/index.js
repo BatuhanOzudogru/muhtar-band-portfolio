@@ -2,6 +2,7 @@ import foto1 from "/pictures/foto21.jpg";
 import foto2 from "/pictures/foto22.jpg";
 import foto3 from "/pictures/foto29.jpg";
 import foto4 from "/pictures/foto24.jpg";
+import muhtarPic from "/pictures/muhtarPic.jpg";
 
 export const HERO_CONTENT = `2022 yılında müzik hayatına başlayan Muhtar; Oğuz Kaan Civelek, Korhan Koçanalı, Onur Eylül Akçay, Uğur Can Kızılaltun, Mertcan Çetin üyelerinden oluşuyor. 2023, Temmuz'da çıkarmış oldukları 'İçimdekiler' isimli teklileriyle birlikte, şarkılarını insanlara ulaştırma hayallerinin ilk adımlarını atmış bulunmaktalar.`;
 
@@ -168,34 +169,34 @@ links: ["https://open.spotify.com/intl-tr/track/4L6uhn4xhOZNeqIeZq2UQM?si=cfd1d8
 
 export const CONCERTS = [
   {
-    title: "A Konseri",
-    image: foto1,
+    title: "Pek Yakında",
+    image: muhtarPic,
     description:
-      "a mekanında gerçekleşen konser",
+      "",
     
     
   },
-  {
-    title: "b Konseri",
-    image: foto2,
-    description:
-      "b mekanında gerçekleşen konser",
+  // {
+  //   title: "b Konseri",
+  //   image: foto2,
+  //   description:
+  //     "b mekanında gerçekleşen konser",
     
-  },
-  {
-    title: "c Konseri",
-    image: foto3,
-    description:
-      "c mekanında gerçekleşen konser",
+  // },
+  // {
+  //   title: "c Konseri",
+  //   image: foto3,
+  //   description:
+  //     "c mekanında gerçekleşen konser",
     
-  },
-  {
-    title: "d Konseri",
-    image: foto4,
-    description:
-      "d mekanında gerçekleşen konser",
+  // },
+  // {
+  //   title: "d Konseri",
+  //   image: foto4,
+  //   description:
+  //     "d mekanında gerçekleşen konser",
     
-  },
+  // },
 ];
 
 export const CONTACT = {
