@@ -133,7 +133,7 @@ Daha ne isterim, ben bu hayattan
 Kendime bir gelsem var ya
 Daha ne isterim, ben bu hayattan`,
 links: ["https://open.spotify.com/intl-tr/track/0NZcBQ3Au806gKW2ohWSWh?si=d49bc84569374924",
-   "https://www.youtube.com/watch?v=qAZVMG2v7UA"
+   "https://www.youtube.com/watch?v=qAZVMG2v7UA",
 "https://www.youtube.com/watch?si=80eXott_YM_kAqq_&v=BcSBP21UFK4&feature=youtu.be "],
   },
   
